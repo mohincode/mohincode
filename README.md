@@ -36,9 +36,6 @@
 
 <hr/>
 
-<h3 align="left">🔝 Top Contributed Repo:</h3>
-
-// ![](https://github-contributor-stats.vercel.app/api?username=mohincode&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohincode&icon=0&color=12)](https://visitcount.itsvg.in)
